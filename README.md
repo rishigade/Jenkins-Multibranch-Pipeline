@@ -1,2 +1,2 @@
 # Jenkins-Multibranch-Pipeline
-Jenkins-Multibranch-Pipeline
+Openshift-Pipeline
